@@ -23,7 +23,7 @@ A batch image compression tool that preserves folder structure and creates multi
 1. Clone the repository:
 
 ```bash
-git clone [repository-url]
+git clone https://github.com/eldarabdu/image_compressor.git
 cd image_compressor
 ```
 
