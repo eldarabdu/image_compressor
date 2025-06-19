@@ -1,0 +1,20 @@
+{
+	"private": true,
+	"name": "webpack_image_compressor_v1",
+	"version": "1.0.0",
+	"main": "compress-images.js",
+	"scripts": {
+		"start": "node compress-images.js",
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [],
+	"author": "Eldar Abdu",
+	"license": "ISC",
+	"description": "",
+	"dependencies": {
+		"fast-glob": "^3.3.3",
+		"fs-extra": "^11.3.0",
+		"path": "^0.12.7",
+		"sharp": "^0.34.2"
+	}
+}
